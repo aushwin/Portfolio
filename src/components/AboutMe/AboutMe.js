@@ -7,9 +7,11 @@ const AboutMe = ()=>{
         Full-Stack Developer
     </div>
     <div className="text-sm text-p-grey w-8/12">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus et eros a orci ultricies sollicitudin ac id turpis. 
-    Phasellus eleifend posuere risus vel rutrum. Fusce consectetur tincidunt nisi, a hendrerit nisi lacinia sed. Aenean 
-    hendrerit et elit ac fringilla. Nulla turpis nibh,\accumsan sed facilisis a, tempus eget lacus. Quisque eu facilisis velit, in laoreet lectus. Etiam tempus leo ac magna pretium suscipit. 
+    An aspiring student with a keen interest to
+discover, enhance and grow the skillsets in
+development. Also, adapt to any situation
+and proven potential to grow self and as a
+team. I am curious about decentralized Internet.
     </div>
 </div>
     
