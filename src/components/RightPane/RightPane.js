@@ -4,7 +4,7 @@ const RightPane = ()=>{
         <Projects link="projects"/>
         <div id="certificates" className="bg-primary-bg h-24"></div>
         <Certificates link="certificates" />
-        <div className="bg-primary-bg h-24"></div>
+        <div id="skills" className="bg-primary-bg h-24"></div>
         <Skills link="skills" />
 
     </div>
